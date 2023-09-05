@@ -1,0 +1,11 @@
+*.o
+*.a
+vgcore.*
+bs/
+
+my_sokoban
+maps*
+*.pl
+*.txt
+
+unit*
